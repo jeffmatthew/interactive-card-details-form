@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jeffmatthew/interactive-card-details-form)
-- Live Site URL: [Add live site URL here](https://jeffmatthew.github.io/interactive-card-details-form/)
+- Solution URL: [Solution](https://github.com/jeffmatthew/interactive-card-details-form)
+- Live Site URL: [Live Site](https://jeffmatthew.github.io/interactive-card-details-form/)
 
 ## My process
 ### Built with
